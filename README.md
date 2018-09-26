@@ -6,3 +6,9 @@ Simulação de uma Unidade Lógica Aritmética de 8 Bits utilizando o paradigma 
 Projeto realizado em parceria com colegas de classe. 
 <br>8-bit Arithmetic Logic Unity simulation using the Oriented Object programming paradigm.
 A project made in partnership with classmates.
+
+Comparador = Comparer.
+Decodificador = Decoder.
+Somador = Adder.
+Subtrator = Subtrator.
+Portas = Doors.
