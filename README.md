@@ -7,8 +7,9 @@ Projeto realizado em parceria com colegas de classe.
 <br>8-bit Arithmetic Logic Unity simulation using the Oriented Object programming paradigm.
 A project made in partnership with classmates.
 
-Comparador = Comparer.
-Decodificador = Decoder.
-Somador = Adder.
-Subtrator = Subtrator.
-Portas = Doors.
+
+Comparador = Comparator.
+<br>Decodificador = Decoder.
+<br>Somador = Adder.
+<br>Subtrator = Subtrator.
+<br>Portas = Doors.
